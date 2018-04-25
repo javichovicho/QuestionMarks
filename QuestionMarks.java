@@ -1,4 +1,4 @@
-//check if there are exactly 3 question marks between EVERY pair of two numbers that add up to 10
+//check if there are exactly 3 question marks between every pair of two numbers that add up to 10
 import java.util.*;
 
 public class QuestionMarks{
